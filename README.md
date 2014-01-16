@@ -1,4 +1,4 @@
-# User Stories for My diner guide
+# User Stories for My Dining Guide
 
 1. As a visitor, I want to see the list of restaurants in Chicago
 2. As a visitor, I want to be able to search for restaurants
